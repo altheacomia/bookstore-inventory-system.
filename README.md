@@ -1,1 +1,0 @@
-# bookstore-inventory-system.
